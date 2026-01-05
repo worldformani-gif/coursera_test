@@ -1,0 +1,11 @@
+/* Navbar dropdown background */
+.navbar-collapse {
+  background-color: #e6e6e6;
+}
+
+/* Main content section */
+.main-section {
+  background-color: #d9edf7;
+  padding: 20px;
+  height: 1000px; /* makes page scroll */
+}
